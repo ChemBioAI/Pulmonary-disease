@@ -1,0 +1,13 @@
+[Sat Apr 20 10:17:28 2024] CIRI begins running
+[Sat Apr 20 10:17:28 2024] Loading reference
+[Sat Apr 20 10:18:07 2024] First scanning
+ Candidate reads with splicing signals: 9
+ Candidate reads with PEM signals: 9
+ Candidate circRNAs found: 8
+[Sat Apr 20 10:34:01 2024] Second scanning
+[Sat Apr 20 11:08:08 2024] Extracting info from temporary files
+ Additional candidate reads found: 0
+[Sat Apr 20 11:09:34 2024] Summarizing
+ Number of circular RNAs found: 0
+[Sat Apr 20 11:09:41 2024] CIRI finished its work. Please see output file SRR5515953_outfe for detail.
+--------------------------------------------------------------------------------

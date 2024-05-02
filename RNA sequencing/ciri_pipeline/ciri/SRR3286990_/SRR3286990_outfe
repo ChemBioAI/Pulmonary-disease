@@ -1,0 +1,4 @@
+circRNA_ID	chr	circRNA_start	circRNA_end	#junction_reads	SM_MS_SMS	#non_junction_reads	junction_reads_ratio	circRNA_type	gene_id	strand	junction_reads_ID
+chr1:633637|633793	chr1	633637	633793	2	1_2_0	6930	0.001	intergenic_region	n/a	-	SRR3286990.59529313,SRR3286990.32686485,
+chr1:633637|633956	chr1	633637	633956	4	2_3_0	6716	0.001	intergenic_region	n/a	-	SRR3286990.15140657,SRR3286990.46975892,SRR3286990.71124788,SRR3286990.76026618,
+chr1:13778418|13782831	chr1	13778418	13782831	2	2_1_0	6	0.400	intergenic_region	n/a	+	SRR3286990.24157761,SRR3286990.49855537,
