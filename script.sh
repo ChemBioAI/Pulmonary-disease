@@ -1,6 +1,4 @@
 
-
-
 #!/bin/bash
 
 # Set the path to the input directory containing your RNA-Seq data
@@ -47,4 +45,3 @@ for forward_read in "$input_dir"/*_R1_001.fastq.gz; do
     htseq-count -f bam -r name --stranded reverse -i gene_name "$output_dir/marked_duplicates/${base_name_no_ext}_marked_duplicates.bam" /media/anita/OTHER/GENOME_DIR/hg19/HG19.gtf > "$output_dir/htseq/${base_name_no_ext}_htseq_counts.txt"
     
 done
-
