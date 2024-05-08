@@ -33,6 +33,7 @@ This project is licensed under the MIT license.
 * **[Md. Shadab Ali](ms1993ali@gmail.com)**
 ## Authors
 
-* **[Saher Pathan](https://github.com/Saherpathan)**
 * **[Hardik Goel](https://github.com/Hardikgoel07)**
+* **[Saher Pathan](https://github.com/Saherpathan)**
+
 
