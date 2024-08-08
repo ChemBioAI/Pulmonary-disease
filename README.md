@@ -1,12 +1,12 @@
 <h1 align="center" id="title">Interstitial Lung Disease Research</h1>
 
-<p align="center"><img src="https://images.deepai.org/art-image/477c936aca06469293482c9dfa1f16a3/genetics-research-ai-sequencing.jpg" alt="project-image"></p>
+<p align="center"><![genetics-using-artificial-intelligence-thumb](https://github.com/user-attachments/assets/6f6be5aa-e595-42a2-a12b-27bc946274b2)></p>
 
   
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Here are some of the features:
 
 *   Artificial Intelligence
 *   Linux
