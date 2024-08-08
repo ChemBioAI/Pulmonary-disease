@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Interstitial Lung Disease Research</h1>
 
-<p align="center"><![genetics-using-artificial-intelligence-thumb](https://github.com/user-attachments/assets/6f6be5aa-e595-42a2-a12b-27bc946274b2)></p>
+<p align="center"><img src=![genetics-using-artificial-intelligence-thumb](https://github.com/user-attachments/assets/6f6be5aa-e595-42a2-a12b-27bc946274b2)></p>
 
   
   
